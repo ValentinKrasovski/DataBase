@@ -121,7 +121,7 @@
     - *filling_name* VARCHAR(30) 
     - *grams* INT 
      
-9. **Order**:
+8. **Order**:
    - *order_id* INT PRIMARY KEY AUTO_INCREMENT
    - *user_id* INT FOREIGN KEY Users (user_id)
    - *order_datetime* DATETAME 
@@ -129,12 +129,12 @@
    - *order_cost* DOUBLE NOT NULL
    - *deliv_id* INT FOREIGN KEY Delivery(deliv_id)
      
-10. **Cards**:
+9. **Cards**:
    - *card_id* INT PRIMARY KEY AUTO_INCREMENT
    - *card_num* VARCHAR(16) NOT NULL UNIQUE
    - *card_date* DATE
      
-11. **Delivery**:
+10. **Delivery**:
    - *deliv_id* INT PRIMARY KEY AUTO_INCREMENT
    - *deliv_status* VARCHAR(40)
   
