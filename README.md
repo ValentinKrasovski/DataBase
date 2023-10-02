@@ -5,10 +5,19 @@
      * кондитерская(магазин шоколада)
      
 # 2. Минимальные функциональные требования:
-    * aвторизация пользователя.
-    * Управление пользователями (CRUD).
-    * Система ролей.
-    * Журналирование действий пользователя.
+    * User authorisation
+    * User managment
+    * Role system(user, admin)
+    * Logging user action
+    * For unauthorized user: watching branded cholates
+    * For authorized user: make an order
+    * For authorized user: see the detailes of chocolate(company, description, recepie)
+    * For authorized user: link the card
+    * For admin: stock managment
+    * For admin: delivery managment
+    * For admin: order managment
+    * For admin: provider managment
+    * For admin: recepie managment
     
 # 3. Основные Сущности
 
