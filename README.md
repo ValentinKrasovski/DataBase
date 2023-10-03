@@ -154,4 +154,5 @@
    - *prov_contacts* VARCHAR(30)
    - *choco_id* INT FOREIGN KEY Product(product_id)
 # 5 Диаграмма
-![dbdiagram](1lab.png)
+![Uploading image.png…]()
+
