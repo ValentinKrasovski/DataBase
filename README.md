@@ -153,5 +153,5 @@
    - *prov_discription* VARCHAR(200) NOT NULL
    - *prov_contacts* VARCHAR(30)
    - *choco_id* INT FOREIGN KEY Product(product_id)
-# 5 Диаграма
+# 5 Диаграмма
 ![dbdiagram](1lab.png)
