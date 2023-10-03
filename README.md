@@ -154,5 +154,6 @@
    - *prov_contacts* VARCHAR(30)
    - *choco_id* INT FOREIGN KEY Product(product_id)
 # 5 Диаграмма
-![Uploading image.png…]()
+![image](https://github.com/ValentinKrasovski/DataBase/assets/92800455/2614c098-5221-44de-86ac-d4ed2b997f53)
+
 
