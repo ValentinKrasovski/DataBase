@@ -11,13 +11,11 @@
     * Logging user action
     * For unauthorized user: watching branded cholates
     * For authorized user: make an order
-    * For authorized user: see the detailes of chocolate(company, description, recepie)
+    * For authorized user: see the detailes of chocolate
     * For authorized user: link the card
-    * For admin: stock managment
     * For admin: delivery managment
     * For admin: order managment
     * For admin: provider managment
-    * For admin: recepie managment
     
 # 3. Основные Сущности
 
