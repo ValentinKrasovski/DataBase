@@ -12,9 +12,9 @@
     * For unauthorized user: watching branded cholates
     * For authorized user: make an order
     * For authorized user: see the detailes of chocolate
-    * For authorized user: link the card
-    * For admin: delivery managment
-    * For admin: order managment
+    * For authorized user: add review
+    * For admin: product managment
+    * For admin: employee managment
     * For admin: provider managment
     
 # 3. Основные Сущности
